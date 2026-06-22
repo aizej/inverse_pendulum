@@ -11,7 +11,7 @@ Simple inverse pendulum using 3d printed parts and cheap electronics.
 
 ## Results
 
-[*(insert video from 2026-06-22)*](https://youtube.com/shorts/lt8KjExcmE4?feature=share)
+[*video of the pendulum balancing*](https://youtube.com/shorts/lt8KjExcmE4?feature=share)
 
 ## Issues
 
