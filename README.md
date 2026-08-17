@@ -1,6 +1,6 @@
 # Inverse pendulum
 
-Simple inverse pendulum using 3d printed parts and cheap electronics.
+Inverted pendulum built from printed parts and cheap electronics to test classical loop control against reinforcement learning approach.
 
 ## Electronics used
 
