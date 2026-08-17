@@ -1,4 +1,4 @@
-# Simple inverse pendulum
+# Inverse pendulum
 
 Simple inverse pendulum using 3d printed parts and cheap electronics.
 
